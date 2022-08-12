@@ -1,1 +1,3 @@
-# spring-boot
+spring boot 연습
+1. 깃 업로드
+2. 로그인, 회원가입, 공지사항 개발
